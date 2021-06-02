@@ -12,7 +12,7 @@ export function menu() {
 createStartMenu();
 
 function createStartMenu() {
-    console.log("Создание стартового меню");
+    //console.log("Создание стартового меню");
 
     const fragment = document.createDocumentFragment();
     const box = createBoxButton();
